@@ -116,7 +116,7 @@ author:
   name             : "DongJae Seo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : #"Korea"
+  location         : "Seoul"
   email            : "ehdwo030303@gmail.com"
   links:
     - label: "Email"
