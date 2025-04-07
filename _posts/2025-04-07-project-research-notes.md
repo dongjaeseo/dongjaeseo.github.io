@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stock Project – Early Research Notes"
 date: 2025-04-07
 categories: [stock]
