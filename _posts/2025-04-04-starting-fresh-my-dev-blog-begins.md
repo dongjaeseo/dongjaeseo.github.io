@@ -1,4 +1,5 @@
 ---
+layout: posts
 title: "Starting Fresh: My Dev Blog Begins"
 date: 2025-04-04
 categories: [meta]
