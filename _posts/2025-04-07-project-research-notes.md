@@ -2,6 +2,7 @@
 layout: post
 title: "Stock Project – Early Research Notes"
 date: 2025-04-07
+categories: [stock]
 ---
 
 This post is a quick summary of the basic research I've done for my stock price estimation project.
