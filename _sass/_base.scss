@@ -1411,3 +1411,7 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+mjx-container[jax="CHTML"][display="true"] {
+  overflow-x: auto;
+}
