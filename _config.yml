@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Giacomo
 middle_name:
 last_name: Vagni
-email: giacomo.vagni@eui.eu
+email: g.vagni@essex.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  Welcome to my profesisonal website
 footer_text: >
@@ -76,7 +76,7 @@ telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-8140-1361 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
