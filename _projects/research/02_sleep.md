@@ -4,7 +4,7 @@ title: Sleep Stage Classification
 description: Sleep Stage Classification using General Time Series Foundation Model
 img: assets/img/sleep.jpg
 importance: 0
-category: Research Project
+category: research
 # related_publications: false
 ---
 
