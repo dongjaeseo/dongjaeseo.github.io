@@ -2,7 +2,7 @@
 layout: page
 title: Lane Detection
 description: Lane Detection and Steering Angle Calculation using Mask-RCNN
-img: assets/img/lane_detect.jpg
+img: assets/img/lane_detect2.jpg
 importance: 0
 category: personal
 # related_publications: false
