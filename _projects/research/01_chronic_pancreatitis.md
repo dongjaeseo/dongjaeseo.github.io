@@ -4,7 +4,7 @@ title: Chronic Pancreatitis
 description: CT-based Pancreas Segmentation for Chronic Pancreatitis Studies
 img: assets/img/chronic pancreatitis.jpg
 importance: 1
-category: Research Project
+category: research
 # related_publications: false
 ---
 
