@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects and previous work
+description: Research projects and previous personal works
 nav: true
 nav_order: 2
 display_categories: [Research projects, Undergraduate projects]
