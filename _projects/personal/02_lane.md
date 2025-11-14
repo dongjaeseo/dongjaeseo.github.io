@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Lane Detection
-description: Lane Detection and Steering Angle Calculation using Mask-RCNN
+title: Lane Detection and Steering Angle Calculation using Mask-RCNN
 img: assets/img/lane_detect2.jpg
 importance: 0
 category: personal
 # related_publications: false
 ---
-
-# Lane Detection Using Classical Vision + Mask R-CNN
 
 This project implements a full pipeline for lane detection using both  
 **traditional computer vision techniques** (calibration, perspective transform, thresholding)  
