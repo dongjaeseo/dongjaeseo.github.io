@@ -41,8 +41,8 @@
       institution: Medical Imaging & Reconstruction Lab, Indian Institute of Technology Madras
       year: 2023.12 - 2024.05
       description:
-        - CT-based pancreas analysis for chronic pancreatitis prognosis.
-        - Built a 3D pancreas segmentation model using SwinUNetR (Dice score: 0.7833).
+        - CT-based pancreas analysis for chronic pancreatitis prognosis. 
+        - Built a 3D pancreas segmentation model using SwinUNetR (Dice score = 0.7833).
         - Supported radiomic feature extraction pipeline for predicting pancreatitis prognosis.
 
 - title: Work Experience
