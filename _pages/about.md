@@ -25,4 +25,4 @@ My research interests include **AI for healthcare**, particularly **sleep-stage 
 
 **Education**
 
-- B.Tech & M.Tech Dual Degree, Engineering Design, IIT Madras, Jul 2016 - May 2024
+B.Tech & M.Tech Dual Degree, Engineering Design, IIT Madras, Jul 2016 - May 2024
