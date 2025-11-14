@@ -1,14 +1,11 @@
 ---
 layout: page
 title: Image Captioning
-description: Image Captioning
 img: assets/img/caption.jpg
 importance: 1
 category: personal
 # related_publications: false
 ---
-
-# Image Caption Generator
 
 This project implements an end-to-end **image captioning model** that generates natural-language descriptions from images.  
 It combines **CNN-based image feature extraction**, **GloVe-based word embeddings**, and an **RNN/sequence model** for caption generation.  
