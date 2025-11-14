@@ -71,7 +71,7 @@ Used multiple color spaces to highlight lane markings:
 Applied:
 - Histogram equalization with **CLAHE**
 - Binarization to isolate lane pixels  
-<img width="1344" height="660" alt="image" src="https://github.com/user-attachments/assets/f4f1f5d8-9911-4abd-a94f-a5ee5cd4ce52" />
+<img width="650" height="320" alt="image" src="https://github.com/user-attachments/assets/f4f1f5d8-9911-4abd-a94f-a5ee5cd4ce52" />
 
 ---
 
@@ -122,6 +122,7 @@ Observations:
 - Collect mask outputs into an array  
 - Compute steering angle per frame  
 - Render overlay (line + angle text)
+  
 <img src="https://github.com/user-attachments/assets/11fe6896-8509-4c5f-856c-44c7b53f661d" width="400"/>
 <img src="https://github.com/user-attachments/assets/92799826-fde5-4036-8cf0-8f6eedf16994" width="400"/>
 
@@ -147,7 +148,7 @@ The system produces:
 - Smooth angle transitions across frames  
 
 This creates a functional lane detection + steering estimation module.
-<img width="564" height="996" alt="image" src="https://github.com/user-attachments/assets/7eafb159-eb76-4205-b91b-a0cfb4cd4717" />
+<img width="423" height="750" alt="image" src="https://github.com/user-attachments/assets/7eafb159-eb76-4205-b91b-a0cfb4cd4717" />
 
 ---
 
