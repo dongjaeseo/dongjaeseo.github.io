@@ -82,7 +82,8 @@ Extracted intensity, texture, and shape features from the segmented pancreas for
 
 ## Key Radiomic Features
 
-![radiomics](https://github.com/user-attachments/assets/1de74327-acb4-4ed4-aa38-e6a4215f699c)
+<img width="848" height="447" alt="image" src="https://github.com/user-attachments/assets/c93a87d1-f8ff-4646-812f-da53ba7c946e" />
+
 
 Examples include:
 
