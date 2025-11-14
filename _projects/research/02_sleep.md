@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Sleep Stage Classification
-description: Sleep Stage Classification using General Time Series Foundation Model
+title: Sleep Stage Classification using General Time Series Foundation Mode
 img: assets/img/sleep.jpg
 importance: 0
 category: research
 # related_publications: false
 ---
-
-# Sleep Stage Classification using MOMENT Foundation Model
 
 This project explores sleep stage classification using the **MOMENT Time Series Foundation Model** on **PhysioNet PSG data**, and compares its performance with **SleepFM**, a model specialized for sleep staging.  
 This work is ongoing as part of my research internship at Seoul National University.
