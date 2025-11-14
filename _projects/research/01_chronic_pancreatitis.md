@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Chronic Pancreatitis
-description: CT-based Pancreas Segmentation for Chronic Pancreatitis Studies
+title: CT-based Pancreas Segmentation for Chronic Pancreatitis Studies
 img: assets/img/chronic pancreatitis.jpg
 importance: 1
 category: research
 # related_publications: false
 ---
-
-# CT-Based Pancreas Segmentation for Chronic Pancreatitis Studies
 
 A deep learning and medical imaging workflow for pancreas segmentation and radiomic feature analysis.  
 Completed as part of my Dual Degree at **IIT Madras**, supervised by **Prof. Ganapathy Krishnamurthi**.
