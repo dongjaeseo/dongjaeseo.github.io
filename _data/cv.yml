@@ -2,96 +2,82 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Dongjae Seo
+    - name: Email
+      value: ehdwo030303@gmail.com
+    - name: URL
+      value: <a href="https://dongjaeseo.github.io">homepage</a>
+    - name: Github
+      value: <a href="https://github.com/dongjaeseo">github</a>
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Technology
+      institution: Indian Institute of Technology Madras
+      year: 2016-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Automotive Engineering
+    - title: Bachelor of Technology
+      institution: Indian Institute of Techonology Madras
+      year: 2016-2024
       description:
-        - Description 1.
-        - Description 2.
+        - Engineering Design
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: AIoT Lab, Seoul National University
+      year: 2024.06 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Implemented baseline experiments for sleep staging using the MOMENT time-series foundation model.
+        - Designed preprocessing approaches to adapt long PSG signals for transformer-based models.
+        - Assessed embedding quality through linear/SVM probing; analyzed performance trade-offs across classification heads.
+
+    - title: Research Assistant
+      institution: Medical Imaging & Reconstruction Lab, Indian Institute of Technology Madras
+      year: 2023.12 - 2024.05
       description:
-        - Description 1.
-        - Description 2.
+        - CT-based pancreas analysis for chronic pancreatitis prognosis.
+        - Built a 3D pancreas segmentation model using SwinUNetR (Dice score: 0.7833).
+        - Supported radiomic feature extraction pipeline for predicting pancreatitis prognosis.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Work Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
+    - title: Computer Vision Intern
+      institution: INUAID Solutions
+      year: 2023.01 - 2023.07
+      description:
+        - Developed preprocessing pipeline for detecting small nodules in lung CT scans.
+        - Worked on nodule candidate generation and classification (malignant vs benign) using radiomic features.
+        - Contributed to the development and integration of ML modules for the diagnostic pipeline.
+        
+- title: Course Projects
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Battery Life Prediction using AI – Energy Storage Devices and Systems
+      year: 2022.07 - 2022.11
+      description: Developed regression model to estimate battery life using time-series data and performance history.
 
-- title: Academic Interests
+    - title:  Deep Learning Model Implementation – Deep Learning for Imaging
+      year: 2022.07 - 2022.11
+      description: 
+        - Built a complete deep learning training pipeline from scratch using Python and NumPy
+        - Implemented core components such as forward/backward propagation, weight initialization, CNN/RNN architectures, and optimizers including Adam and SGD, without using high-level libraries.
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, Java, C++, SQL, MATLAB
+    - title: Frameworks
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - PyTorch, Keras, Tensorflow, scikit-learn, Pandas, Numpy, SciPy, OpenCV, PyRadiomics
+    - title: Tools and Methodologies
+      items:
+        - 	Jupyter Notebooks, Git/GitHub, AWS, LaTeX
