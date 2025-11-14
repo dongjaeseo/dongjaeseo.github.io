@@ -47,7 +47,7 @@ The dataset consists of:
 - Corresponding captions stored in `.txt` files:
 image_id #0 caption1
 image_id #0 caption2
-<img width="1490" height="418" alt="image" src="https://github.com/user-attachments/assets/38322cd3-7737-4f28-bfff-ccc51e904650" />
+<img width="740" height="208" alt="image" src="https://github.com/user-attachments/assets/38322cd3-7737-4f28-bfff-ccc51e904650" />
 
 ...
 Multiple captions exist per image.
@@ -163,8 +163,8 @@ Example difference:
 
 Includes sample outputs for both Greedy and Beam Search.  
 Beam Search consistently generates more fluent and meaningful captions.
-<img width="1110" height="657" alt="image" src="https://github.com/user-attachments/assets/a42d3365-f2e4-4776-863d-d2d76d02c95c" />
-<img width="1314" height="564" alt="image" src="https://github.com/user-attachments/assets/e8ca4abc-5553-4cf3-bda6-ef87d6a94398" />
+<img width="550" height="320" alt="image" src="https://github.com/user-attachments/assets/a42d3365-f2e4-4776-863d-d2d76d02c95c" />
+<img width="550" height="320" alt="image" src="https://github.com/user-attachments/assets/e8ca4abc-5553-4cf3-bda6-ef87d6a94398" />
 
 ---
 
