@@ -17,9 +17,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-
-**DongJae Seo**
+👋 Hello, I'm Dongjae Seo!
 
 I’m currently a **research intern at Seoul National University**, working on **AI for healthcare** with a focus on **sleep studies**. Before that, I completed a five-year integrated **Engineering Design** program at **IIT Madras** (B.Tech & M.Tech), where I also conducted research at the **Medical Imaging & Reconstruction Lab** on CT-based **pancreas segmentation** and imaging feature analysis.
 
