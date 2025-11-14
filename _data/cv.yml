@@ -17,12 +17,12 @@
   contents:
     - title: Master of Technology
       institution: Indian Institute of Technology Madras
-      year: 2016-2024
+      year: 2016.07-2024.05
       description:
         - Automotive Engineering
     - title: Bachelor of Technology
-      institution: Indian Institute of Techonology Madras
-      year: 2016-2024
+      institution: Indian Institute of Technology Madras
+      year: 2016.07-2024.05
       description:
         - Engineering Design
 
@@ -31,13 +31,13 @@
   contents:
     - title: Research Intern
       institution: AIoT Lab, Seoul National University
-      year: 2024.06 - present
+      year: 2025.06 - present
       description:
         - Implemented baseline experiments for sleep staging using the MOMENT time-series foundation model.
         - Designed preprocessing approaches to adapt long PSG signals for transformer-based models.
         - Assessed embedding quality through linear/SVM probing; analyzed performance trade-offs across classification heads.
 
-    - title: Research Assistant
+    - title: Undergraduate Researcher
       institution: Medical Imaging & Reconstruction Lab, Indian Institute of Technology Madras
       year: 2023.12 - 2024.05
       description:
@@ -61,7 +61,8 @@
   contents:
     - title: Battery Life Prediction using AI – Energy Storage Devices and Systems
       year: 2022.07 - 2022.11
-      description: Developed regression model to estimate battery life using time-series data and performance history.
+      description: 
+        - Developed regression model to estimate battery life using time-series data and performance history.
 
     - title:  Deep Learning Model Implementation – Deep Learning for Imaging
       year: 2022.07 - 2022.11
@@ -80,4 +81,4 @@
         - PyTorch, Keras, Tensorflow, scikit-learn, Pandas, Numpy, SciPy, OpenCV, PyRadiomics
     - title: Tools and Methodologies
       items:
-        - 	Jupyter Notebooks, Git/GitHub, AWS, LaTeX
+        - Jupyter Notebooks, Git/GitHub, AWS, LaTeX
