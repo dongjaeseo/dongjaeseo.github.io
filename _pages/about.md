@@ -23,6 +23,7 @@ I’m currently a **research intern at Seoul National University**, working on *
 
 My research interests include **AI for healthcare**, particularly **sleep-stage classification**, **physiological time-series modeling**, and **medical imaging**. I’m interested in applying machine learning to real medical data, especially imaging and physiological signals.
 
+
 **Education**
 
 B.Tech & M.Tech Dual Degree, Engineering Design, IIT Madras, Jul 2016 - May 2024
