@@ -21,6 +21,4 @@ I’m currently a **research intern at Seoul National University**, working on *
 
 Before that, I completed a five-year integrated (B.Tech & M.Tech) Engineering Design program at **IIT Madras**, where I also conducted research at the Medical Imaging & Reconstruction Lab on CT-based pancreas segmentation and imaging feature analysis.
 
-My research interests include **AI for healthcare**, particularly **sleep-stage classification**, **physiological time-series modeling**, and **medical imaging**. I’m interested in applying machine learning to real medical data, especially imaging and physiological signals.
-
-
+My research interests include **AI for healthcare**, particularly **sleep-stage classification**, **physiological time-series modeling**, and **medical imaging**. I’m interested in applying machine learning to real medical data such as imaging and physiological signals.
