@@ -6,7 +6,7 @@ subtitle: <a href='#'>Research Intern</a> @ AIoT Lab, SNU
 
 profile:
   align: left
-  image:  비자사진.jpg
+  image:  new_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
