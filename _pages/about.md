@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research Intern</a> @ AIoT Lab, SNU
+subtitle: <a href='#'>
 
 profile:
   align: left
@@ -17,8 +17,8 @@ social: true # includes social icons at the bottom of the page
 ---
 👋 Hello, I’m Dongjae Seo.
 
-I am a **research intern at Seoul National University**, where I work on **AI for healthcare**, with a focus on **sleep-stage classification using physiological time-series data**. My current work involves analyzing polysomnography (PSG) data and studying how representation choices affect model performance on long, noisy clinical signals.
+I work on machine learning for healthcare, with a focus on **representation learning and robustness in clinical data**. My recent research examined sleep-stage classification from physiological time-series, where I analyzed polysomnography (PSG) signals to study how representation choices affect model behavior on long, noisy recordings.
 
-I previously completed a five-year integrated **B.Tech & M.Tech in Engineering Design** at **IIT Madras**. During my studies, I conducted research at the **Medical Imaging & Reconstruction Lab**, working on **CT-based pancreas segmentation for chronic pancreatitis** and downstream **imaging feature analysis**.
+Previously, I was a research intern at **Seoul National University**, working on foundation-model-based approaches for sleep-stage modeling. I completed a five-year integrated **B.Tech & M.Tech in Engineering Design at IIT Madras**, where I conducted research at the Medical Imaging & Reconstruction Lab on CT-based pancreas segmentation for chronic pancreatitis and downstream imaging feature analysis.
 
-My research interests center on **machine learning for healthcare**, particularly **robust machine learning and representation learning for clinical data**.
+My research interests lie in **robust machine learning and representation learning for healthcare data**, particularly settings where data quality, structure, and supervision vary across environments.
